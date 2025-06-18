@@ -163,7 +163,7 @@ if (!fishingInProgress) {
     // calls time out function. 
     setTimeout(() => {
       // after about 0.02 seconds. we set this text down, update is here so we don't see just the previous line. 
-        textDisplay.innerHTML ="🎣 Casting rod... wait for a fish to bite.";
+        textDisplay.innerHTML ="Casting rod... wait for a fish to bite.";
     }, 2000);
     return;
   }
