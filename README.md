@@ -9,6 +9,10 @@ I spent a few days thinking about controles and gameplay loops. So that even for
 I also wanted to make it feel as authentic as possible so instead of a high stress situational game.
 I made a low stakes easy to get into and easy to drop fishing game. 
 
+![image](https://github.com/user-attachments/assets/4830ecbe-9199-46a1-a369-e54849bb9cd1)
+
+
+
 The idea of adding games came to me when i wanted my portofolio website to stand out more.
 You can alway show off cool things like data and such, but proofing how good i am at programming by making a few webgames seemed more fun.
 And boy was it more fun. thinking about edge cases getting friends and family to test them and learning a bit about game development and sharpening my coding skills.
